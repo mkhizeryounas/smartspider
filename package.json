@@ -12,7 +12,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "jquery": "^3.4.1",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
   }
